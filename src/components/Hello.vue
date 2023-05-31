@@ -6,9 +6,6 @@ let obj = reactive({
 })
 </script>
 <template>
-<div>
-    hello
-</div>
+  <div>hello</div>
 </template>
-<style  lang='scss' scoped>
-</style>
+<style lang="scss" scoped></style>

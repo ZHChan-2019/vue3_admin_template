@@ -5,11 +5,9 @@ let obj = reactive({
   name: 'hello',
 })
 
-var fun=>()
-{
+let fun = () => {
   console.log('只是未格式化代码')
 }
-
 </script>
 
 <template>
